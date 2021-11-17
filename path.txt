@@ -1,0 +1,11 @@
+temp.php =
+/var/www/html
+
+temp.py =
+/home/pi/
+
+pressure.py =
+/home/pi/
+
+light.py =
+/home/pi/
